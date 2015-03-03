@@ -1,11 +1,22 @@
 # Pinshot
+[![Software License](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v2.0-brightgreen.svg?style=flat-square)](LICENSE)
 
 Project in the course of my studies.
 Pinterest-like (light version), realized with the Kohana framework.
 
-## Documentation
+Features :
 
-## Reporting bugs
+* User Auth
+* Follows/Followers
+* Picture upload
+* Comments
+* And other features ;)
 
+## Authors
+- [Damien Lehericy](https://github.com/damieb)
 
-This will help us to fix the bug as quickly as possible, and if you'd like to fix it yourself feel free to [fork us on GitHub](https://github.com/kohana) and submit a pull request!
+## Credits
+- [Kohana](https://github.com/kohana/kohana)
+
+## Licence
+The GNU GENERAL PUBLIC LICENSE V2 (GNU GPL V2). Please see License File for more information.
