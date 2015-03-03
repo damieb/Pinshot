@@ -1,6 +1,7 @@
 # Pinshot
 
-Projet faisant partie du module Javascript Avancée, utilisation du framework Kohana et des librairies Jquery.
+Project in the course of my studies.
+Pinterest-like (light version), realized with the Kohana framework.
 
 ## Documentation
 
